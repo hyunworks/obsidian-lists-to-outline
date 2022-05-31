@@ -1,10 +1,10 @@
 {
-	"id": "obsidian-sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.1",
+	"id": "obsidian-lists-to-outlines",
+	"name": "Lists to outlines",
+	"version": "0.0.1",
 	"minAppVersion": "0.12.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
+	"description": "이 플러그인은 리스트를 아웃라인으로 바꿔주는 플러그인입니다.",
+	"author": "Juhyun Lee",
+	"authorUrl": "",
 	"isDesktopOnly": false
 }
